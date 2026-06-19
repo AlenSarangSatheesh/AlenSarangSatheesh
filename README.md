@@ -47,15 +47,3 @@
 * 🛡️ **FreeSewing Penetration Test:** Executed a comprehensive security assessment identifying and officially disclosing critical backend vulnerabilities.
 * ⛺ **Tent-Camp-Website:** A full-stack, responsive web application for browsing and reserving tent camping experiences.
 * 🤖 **Automation Bots:** Created WhatsApp bulk senders, Instagram auto-reply bots, and OCR-based phone number extraction utilities.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlenSarangSatheesh&show_icons=true&theme=radical" alt="Alen's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlenSarangSatheesh&theme=radical" alt="Alen's GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenSarangSatheesh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
