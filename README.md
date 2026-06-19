@@ -1,49 +1,41 @@
-<h1 align="center">Hi there, I'm Alen Sarang Satheesh 👋</h1>
-<h3 align="center">Freelance Software Engineer | Automation Expert | Security Analyst</h3>
+# Alen Sarang Satheesh
 
-<p align="center">
-  <a href="https://alensarangsatheesh.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/alen-sarang-satheesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alensarangsatheesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
+**Freelance Software Engineer | Automation Expert | Security Analyst**
+
+[Website Portfolio](https://alensarangsatheesh.github.io) • [LinkedIn](https://linkedin.com/in/alen-sarang-satheesh) • [Email Contact](mailto:alensarangsatheesh@gmail.com)
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working as a **Freelance Software Engineer** for international and national clients.
-- 💡 I specialize in **full-stack web applications, Chrome extensions, reverse engineering, and business automation**.
-- 🛡️ I also have strong expertise in **Cyber Security**, offering penetration testing and vulnerability assessments.
-- 💬 Ask me about **building custom CRMs, browser extensions, or automating your workflow**.
+## Professional Summary
+Experienced Software Engineer specializing in full-stack web applications, Chrome extensions, reverse engineering, and business automation. Demonstrated expertise in creating dynamic single-page applications (SPAs), CRMs, and complex plugins. Additionally skilled in cyber security, offering expert penetration testing and vulnerability assessments. Proven ability to deliver comprehensive technical solutions from architecture to secure deployment.
+
+## Technical Expertise
+
+**Languages & Frameworks:** JavaScript, Node.js, React, HTML5, CSS3, Python  
+**Specialized Domains:** Browser Extensions, Desktop Automation, Reverse Engineering, API Integration  
+**Tools & Security:** Git, Burp Suite, Penetration Testing, Vulnerability Assessments  
+
+## Featured Engineering Projects
+
+### AutoCAD AutoRebar Clone
+**Domain: Reverse Engineering**
+Successfully reverse-engineered and recreated a complex desktop plugin from scratch, achieving 90% feature parity to the original AutoRebar tool for AutoCAD.
+
+### Chartink to TradingView Integration
+**Domain: Browser Extensions & Financial Tools**
+Architected and developed a highly-rated browser extension bridging Chartink screeners and TradingView charts, optimizing trading workflows for an active user base.
+
+### FreeSewing Platform Assessment
+**Domain: Cyber Security**
+Executed a comprehensive security penetration test, identifying and officially disclosing critical backend vulnerabilities to ensure platform integrity.
+
+### Tent-Camp Application
+**Domain: Full-Stack Web Development**
+Built a responsive, end-to-end web application enabling seamless browsing and reservation of tent camping experiences.
+
+### Business Automation Systems
+**Domain: Process Automation & AI**
+Developed intelligent automation scripts including WhatsApp bulk interaction tools, Instagram auto-reply bots, and OCR-based data extraction utilities to streamline business operations.
 
 ---
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Automation:**<br>
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=bugcrowd&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-* 🏗️ **AutoCAD AutoRebar Clone:** Reverse-engineered and recreated a complex desktop plugin from scratch achieving 90% feature parity to the original AutoRebar tool.
-* 📈 **Chartink to TradingView/Screener Extension:** A 5-star rated Chrome extension (90+ active users) bridging Chartink screeners and TradingView charts for a seamless trading workflow.
-* 🛡️ **FreeSewing Penetration Test:** Executed a comprehensive security assessment identifying and officially disclosing critical backend vulnerabilities.
-* ⛺ **Tent-Camp-Website:** A full-stack, responsive web application for browsing and reserving tent camping experiences.
-* 🤖 **Automation Bots:** Created WhatsApp bulk senders, Instagram auto-reply bots, and OCR-based phone number extraction utilities.
+*Open to freelance opportunities and technical consulting.*
