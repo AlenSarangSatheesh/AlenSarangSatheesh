@@ -1,41 +1,45 @@
 # Alen Sarang Satheesh
 
-**Freelance Software Engineer | Automation Expert | Security Analyst**
+**Software Engineer | Full-Stack Developer | Security Analyst | Agentic Software Developer**
 
 [Website Portfolio](https://alensarangsatheesh.github.io) • [LinkedIn](https://linkedin.com/in/alen-sarang-satheesh) • [Email Contact](mailto:alensarangsatheesh@gmail.com)
 
 ---
 
 ## Professional Summary
-Experienced Software Engineer specializing in full-stack web applications, Chrome extensions, reverse engineering, and business automation. Demonstrated expertise in creating dynamic single-page applications (SPAs), CRMs, and complex plugins. Additionally skilled in cyber security, offering expert penetration testing and vulnerability assessments. Proven ability to deliver comprehensive technical solutions from architecture to secure deployment.
+Highly versatile Software Engineer with a proven track record in architecting full-stack web applications, engineering complex browser extensions, and reverse-engineering desktop software. From building modern Next.js platforms to developing advanced C# plugins for AutoCAD, I deliver comprehensive, end-to-end technical solutions tailored to business and automation needs. 
+
+**By leveraging cutting-edge AI coding assistants, I have supercharged my development process. This AI-driven approach allows me to rapidly adapt to any tech stack and build virtually any software solution—faster and more efficiently than traditional development.**
 
 ## Technical Expertise
 
-**Languages & Frameworks:** JavaScript, Node.js, React, HTML5, CSS3, Python  
-**Specialized Domains:** Browser Extensions, Desktop Automation, Reverse Engineering, API Integration  
-**Tools & Security:** Git, Burp Suite, Penetration Testing, Vulnerability Assessments  
+**Web Development:** TypeScript, Next.js, React, Node.js, HTML5, CSS3, Prisma ORM  
+**Desktop & Systems:** C#, .NET Framework, AutoCAD Plugin API, Reverse Engineering  
+**Browser Extensions:** JavaScript, Chrome Extension API (Manifest V3), DOM Manipulation, Service Workers  
+**AI-Assisted Development:** Rapid Prototyping, Cross-Stack Adaptability, AI-Powered Code Generation  
+**Automation & Security:** Web Scraping, Desktop Automation scripts, Penetration Testing, Vulnerability Assessments  
 
-## Featured Engineering Projects
+## Highlighted Projects
 
-### AutoCAD AutoRebar Clone
-**Domain: Reverse Engineering**
-Successfully reverse-engineered and recreated a complex desktop plugin from scratch, achieving 90% feature parity to the original AutoRebar tool for AutoCAD.
+### REBARCODES PRO (AutoCAD Extension)
+**Domain: C# / .NET / Reverse Engineering**
+Engineered a complex desktop plugin from scratch achieving 90% feature parity to the original AutoRebar tool for AutoCAD. Built a complete ecosystem including custom licensing, UI, telemetry, and installer modules.
 
-### Chartink to TradingView Integration
-**Domain: Browser Extensions & Financial Tools**
-Architected and developed a highly-rated browser extension bridging Chartink screeners and TradingView charts, optimizing trading workflows for an active user base.
-
-### FreeSewing Platform Assessment
-**Domain: Cyber Security**
-Executed a comprehensive security penetration test, identifying and officially disclosing critical backend vulnerabilities to ensure platform integrity.
-
-### Tent-Camp Application
+### Modern E-Commerce Platform
 **Domain: Full-Stack Web Development**
-Built a responsive, end-to-end web application enabling seamless browsing and reservation of tent camping experiences.
+Architected a robust, full-stack e-commerce application utilizing **Next.js, TypeScript, and Prisma ORM**. Configured for scalable performance with modern CI/CD setups and integrated testing environments (Vitest).
+
+### TradingView & Chartink Interceptor Extension
+**Domain: Browser Extensions & Financial Tech**
+Developed a complex Chrome extension bridging Chartink screeners and TradingView charts. Features background service workers, side-panel UI, and HTTP request interception for seamless and automated trading workflows.
+
+### Maps Data Scraper Extension
+**Domain: Automation & Data Extraction**
+Built a specialized Chrome extension designed to automate data extraction directly from web-based map services, utilizing Chrome's side-panel integration and background scraping scripts.
 
 ### Business Automation Systems
-**Domain: Process Automation & AI**
+**Domain: Process Automation**
 Developed intelligent automation scripts including WhatsApp bulk interaction tools, Instagram auto-reply bots, and OCR-based data extraction utilities to streamline business operations.
 
 ---
-*Open to freelance opportunities and technical consulting.*
+*Open to new opportunities and technical consulting.*
